@@ -1,1 +1,0 @@
-super().__init__(type)
